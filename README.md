@@ -1,7 +1,7 @@
-- 👋 Hi, I’m kavo
+- 👋 Hi, I’m kavo!
 - 👀 I’m interested in programming world
 - 🌱 I’m currently learning Python 🐍 , Django, SQL
-- 💞️ I’m looking to collaborate w/ interesting people
+- 💞️ I’m looking to collaborate w/ interesting people tho
 - 📫 kavo.ima@gmail.com
 
 <!---
