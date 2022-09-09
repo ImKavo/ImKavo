@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Max!
 - 👀 I’m interested in programming world
-- 💻 I’m currently learning Python 🐍 , Django, SQL
+- 💻 I’m currently learning Python 🐍 , Django, MySQL and AWS Cloud system
 - 💞️ I’m looking to collaborate w/ interesting people
 - 📫 maksym.ivanov057@gmail.com
 
