@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Max!
-- 👀 I’m interested in programming world
-- 💻 I’m currently learning Linux🐧, Docker🐳 and AWS🟧
+- 👀 I’m interested in IT world
+- 💻 I’m currently learning Linux🐧, Terraform🟪 and AWS🟧
 - 💞️ I’m looking to collaborate w/ interesting people
 - 📫 maksym.ivanov057@gmail.com
 
