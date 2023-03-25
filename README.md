@@ -11,10 +11,10 @@
 </div>
 
 🧑🏻‍💻 About me:
-I'm DevOps Engineer from 🇺🇦Ukraine 
+- I'm DevOps Engineer from 🇺🇦Ukraine 
 - 👀 I’m interested in IT world
 - 💻 I’m currently learning Linux🐧, Terraform🟪 and AWS🟧
-- 💞️ I’m looking to collaborate w/ interesting people
+- 🤝🏻 I’m looking to collaborate w/ interesting people
 - 📫 maksym.ivanov057@gmail.com
 
 <!---
