@@ -5,7 +5,7 @@
 </div>
 
 
-🧑🏻‍💻 About me:
+About me:
 - I'm DevOps Engineer from 🇺🇦Ukraine 
 - 🤝🏻 I’m looking to collaborate w/ interesting people and challenging tasks
 - 📫 maksym.ivanov057@gmail.com
